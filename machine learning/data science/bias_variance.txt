@@ -1,0 +1,69 @@
+Overfitting:
+-----------
+>model is performing well on training set but poor with testing set
+>it means model is not regularized or generalized.
+
+why:
+>too many features.
+
+Underfitting:
+------------
+>model is not performing well even with training set
+>it means model is again not generalized
+
+why:
+>lack of features
+
+
+Bias and Variance:
+------------------
+> it is a technique that tells about overfitting or underfitting situations in the model.
+
+Training set accuracy:98%
+Testing set accuracy:80%
+
+result:
+	overfitting:low bias and high variance
+
+Training set accuracy:82%
+Testing set accuracy:80%
+
+result:
+	underfitting:high bias and low variance
+
+Note:low variance means model is generalized or regularized
+
+Training set accuracy:80%
+Testing set accuracy:60%
+
+result:
+	underfitting:high bias and high variance
+
+Training set accuracy:98%
+Testing set accuracy:95%
+
+result:
+	just right:low bias and low variance
+
+
+
+Training ----->80%
+Testing------->98%
+
+bias-->high
+variance---high
+
+Underfitting
+
+
+
+
+
+
+
+
+
+
+
+
+

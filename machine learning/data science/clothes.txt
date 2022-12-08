@@ -1,0 +1,1 @@
+{"size":{"0":"small","1":"medium","2":"large","3":"small","4":"medium","5":"medium"},"price":{"0":10,"1":12,"2":15,"3":11,"4":10,"5":10},"brand":{"0":"cob","1":"peter","2":"monte","3":"monte","4":"cantabil","5":"cob"}}

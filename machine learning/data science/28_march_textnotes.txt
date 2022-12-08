@@ -1,0 +1,74 @@
+model:
+------
+output of training phase is known as model
+
+in coding:
+---------
+	algo.fit(X,y)-----result------->model
+
+diff b/w algo and model:
+------------------------
+LinearRegression is an Algo:
+    y=mx+b 	equation where m is coff,b intercept(parameters)
+
+    reg.fit(X,y)
+	
+    y=2.5x+10	#model
+
+    reg.predict(2)
+	
+if x=2
+    y=2.5*2+10
+Dataset:
+	100 samples
+
+divide this dataset into 2 subsets
+
+Training set(Seen data)->70 samples
+
+Testing set(Unseen data) ->30 samples	
+
+Training set is used to build model
+algo.fit(traingset)
+
+
+hyper parameter:
+---------------
+	>arguments that we pass while creating object of algo
+	>In KNN,n_neighbors,metric,p are commonly used hyper parameters
+
+parameter:
+---------
+	>arguments that are computed by algo itself
+	>In LinearRegression, coef(m),intercept(b) are parameters
+
+hyper parameter tuning:
+-----------------------
+	change the value of hyper parameters and rebuild model then
+check bias and variance.....keep changing values until you get low bias low variance in model.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
