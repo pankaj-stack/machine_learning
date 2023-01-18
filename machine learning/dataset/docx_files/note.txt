@@ -1,0 +1,24 @@
+Python:
+-------
+ c(eary 70's)-->c++(eary 80's)--->python(eary 90's)--->java(mid 90's)--->.net(1999)
+
+why python is in trend now a days?
+----------------------------------
+	>less development time
+		>huge library support
+		>easy syntax
+	>branded by google
+	>used in multiple domains
+
+(2 months) (1 month)        (2 months)    (2 months)
+python--->data analytics--->ML------------>AI
+      --->djnago
+      --->iot
+      --->hadoop
+      --->testing
+	
+7 projects
+	1 >python
+	2 >data analytics
+	2 >ML
+	2 >AI
