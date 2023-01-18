@@ -1,0 +1,4 @@
+roll,room_no,room_type
+1,101,single
+2,301,sharing
+5,200,sharing
